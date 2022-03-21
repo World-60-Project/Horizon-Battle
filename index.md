@@ -1,5 +1,7 @@
 # Chào Mừng Bạn Đến Với Horizon Battle(02/04/2022)
 
+<hr>
+
 ## Giới Thiệu
 
 ### Cơ Bản
@@ -13,6 +15,10 @@
 
 <img width="517" alt="Logo Horizon" src="https://i.imgur.com/xAVTZVx.png">
 
+<hr>
+
+### Horizon Battle
+
 ### Thể Lệ
 
 - Với Một Cuộc Thi Lớn, Với Giải Khá Ít Vì Đây Là Lần Đầu Làm Nên Hơi Bỡ Ngỡ :b
@@ -23,8 +29,10 @@
 - Đảm Bảo Mật Và Sẽ Sử Lý Đúng Quy Trình Khi Vi Phạm
 - Cần Nhập Đầy Đủ Thông Tin Và Tham Gia Nhóm Horizon Team
 - Có Hai Tùy Chọn: 
+
 1. **Code Đơn** 
 - Một Mình Code Và Sẽ Nhận Được 100% Giải
+
 2. **Code Đội**
 - Yêu Cầu 2 – 4 Thành Viên, Không Hơn Và Không Kém
 - Phần Thưởng Giải Sẽ Được Chia Đều Cho Thành Viên
@@ -60,24 +68,25 @@
 
 1. **Phần Thưởng**
 - Với Một Hệ Thống Chống Nản Khi Tham Gia, Chúng Tôi Chia Thành 4 Giải Thưởng Như Sau: 
-+ 1 Giải Nhất: 150 – 300k ( Nếu Đạt Đủ Yêu Cầu )
-+ 1 Giải Nhì: 100k
-+ 2 Giải Ba: 50k
+    • 1 Giải Nhất: 150 – 300k ( Nếu Đạt Đủ Yêu Cầu )
+    • 1 Giải Nhì: 100k
+    • 2 Giải Ba: 50k
 
 2. **Nhà Tài Trợ**
 - Nguyễn Thái Hảo: 200k
 - Lê Định: 200k
 - Nguyễn Lê Quốc Huy: 100k
-P/s:  Nếu Bạn Muốn Tài Trợ, Tăng Mức Hấp Dẫn Của Giải Thì Hãy Liên Hệ Với [Tôi](Facebook.com/Lazic.Kanzu)
+    P/s:  Nếu Bạn Muốn Tài Trợ, Tăng Mức Hấp Dẫn Của Giải Thì Hãy Liên Hệ Với [Tôi](Facebook.com/Lazic.Kanzu)
 
 ### Hình Phạt Nếu Như Gặp Các Lỗi Trên 
 
 - Tùy Vào Trường Hợp, Chúng Tôi Xem Xét Và Đưa Ra Những Hình Phạt Thích Đáng, Bao Gồm:
-+ Đưa Vào Danh Sách Đen Của HT
-+ Kick Ra Khỏi Nhóm Vĩnh Viễn
-+ Và Các Hình Phạt Khác
+    • Đưa Vào Danh Sách Đen Của HT
+    • Kick Ra Khỏi Nhóm Vĩnh Viễn
+    • Và Các Hình Phạt Khác
 
-### Liên Kết Và Mã Tham Gia
+<hr>
+
+## Liên Kết Và Mã Tham Gia
 - Link Tham Gia: [Link](https://m.me/j/AbatSuj6tZEr_XmV/)
-- Mã QR: 
-<img width="517" alt="Mã QR" src="https://i.imgur.com/qSeBABk.png">
+- Mã QR: <img width="517" alt="Mã QR" src="https://i.imgur.com/qSeBABk.png">
