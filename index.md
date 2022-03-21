@@ -68,9 +68,9 @@
 
 1. **Phần Thưởng**
 - Với Một Hệ Thống Chống Nản Khi Tham Gia, Chúng Tôi Chia Thành 4 Giải Thưởng Như Sau: 
-    • 1 Giải Nhất: 150 – 300k ( Nếu Đạt Đủ Yêu Cầu )
-    • 1 Giải Nhì: 100k
-    • 2 Giải Ba: 50k
+    - 1 Giải Nhất: 150 – 300k ( Nếu Đạt Đủ Yêu Cầu )
+    - 1 Giải Nhì: 100k
+    - 2 Giải Ba: 50k
 
 2. **Nhà Tài Trợ**
 - Nguyễn Thái Hảo: 200k
@@ -81,9 +81,9 @@
 ### Hình Phạt Nếu Như Gặp Các Lỗi Trên 
 
 - Tùy Vào Trường Hợp, Chúng Tôi Xem Xét Và Đưa Ra Những Hình Phạt Thích Đáng, Bao Gồm:
-    • Đưa Vào Danh Sách Đen Của HT
-    • Kick Ra Khỏi Nhóm Vĩnh Viễn
-    • Và Các Hình Phạt Khác
+    - Đưa Vào Danh Sách Đen Của HT
+    - Kick Ra Khỏi Nhóm Vĩnh Viễn
+    - Và Các Hình Phạt Khác
 
 <hr>
 
