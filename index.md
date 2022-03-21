@@ -76,7 +76,7 @@
 - Nguyễn Thái Hảo: 200k
 - Lê Định: 200k
 - Nguyễn Lê Quốc Huy: 100k
-    P/s:  Nếu Bạn Muốn Tài Trợ, Tăng Mức Hấp Dẫn Của Giải Thì Hãy Liên Hệ Với [Tôi](Facebook.com/Lazic.Kanzu)
+    - P/s:  Nếu Bạn Muốn Tài Trợ, Tăng Mức Hấp Dẫn Của Giải Thì Hãy Liên Hệ Với [Tôi](Facebook.com/Lazic.Kanzu)
 
 ### Hình Phạt Nếu Như Gặp Các Lỗi Trên 
 
