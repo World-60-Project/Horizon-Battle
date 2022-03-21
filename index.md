@@ -17,7 +17,7 @@
 
 <hr>
 
-### Horizon Battle
+## Horizon Battle
 
 ### Thể Lệ
 
